@@ -5,6 +5,12 @@
 
 # 📈 Stock Price Prediction for Tesla (TSLA): LSTMs
 
+## Table of Contents
+- [1. Objective](#-1-objective)
+- [2. Data Collection & Preparation](#%EF%B8%8F-2-data-collection--preparation)
+- [3. Tools and Technologies](#%EF%B8%8F-3-tools-and-technologies)
+- [4. Key Results](#-4-key-results)
+  
 ## 🎯 1. Objective:
 
 - 📌 **Goal**
