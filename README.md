@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/00cdcc74-2ba2-421d-913e-547540078488" width="400" height="200">
 </div>
 
-# 📈 Stock Price Prediction for Tesla (TSLA): LSTMs
+# 📈 Stock Price Prediction for Tesla (TSLA): Long Short-Term Memory networks (LSTMs)
 
 ## Table of Contents
 - [1. Objective](#-1-objective)
